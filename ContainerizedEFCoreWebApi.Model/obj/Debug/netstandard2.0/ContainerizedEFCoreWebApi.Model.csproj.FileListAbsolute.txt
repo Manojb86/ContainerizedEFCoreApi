@@ -1,0 +1,9 @@
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\bin\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.deps.json
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\bin\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\bin\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.pdb
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\obj\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.csprojAssemblyReference.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\obj\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.csproj.CoreCompileInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\obj\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.AssemblyInfoInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\obj\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.AssemblyInfo.cs
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\obj\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\ContainerizedEFCoreWebApi\ContainerizedEFCoreWebApi.Model\obj\Debug\netstandard2.0\ContainerizedEFCoreWebApi.Model.pdb
